@@ -1,10 +1,10 @@
 # The Unsolved Case
 
 ## The Discovery
-Late one night, something unusual was found in a place everyone thought they knew well.
+Late one night, something unusual was found in a place nobody knew well.
 
 ## The Witnesses
-Several people noticed strange events, but none reported them immediately.
+Several people noticed strange events, but only one reported them immediately.
 
 ## Clues
 Objects, notes, and minor inconsistencies began to appear. Some were real, some misleading.
